@@ -3,12 +3,12 @@
 This repository contains the code and documentation for my capstone project titled "Exploratory Data Analysis (EDA) of Play Store Data." In this project, I conducted an in-depth exploratory data analysis on a dataset containing information about apps available on the Google Play Store. The primary goal was to gain insights and uncover trends related to app categories, user reviews, ratings, and more.
 
 **Table of Contents**
-**Introduction
-Dataset
-Project Goals
-Methods Used
-Insights
-Conclusion**
+**Introduction**
+**Dataset**
+**Project Goals**
+**Methods Used**
+**Insights**
+**Conclusion**
 
 **Introduction**
 The Google Play Store is a hub for millions of mobile applications across various categories. Exploring this vast dataset can provide valuable insights into app trends, user preferences, and factors influencing app ratings and reviews. This project aims to perform a comprehensive exploratory data analysis on the Play Store dataset to uncover interesting patterns and trends.
