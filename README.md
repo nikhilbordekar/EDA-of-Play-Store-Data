@@ -26,11 +26,11 @@ The main objectives of this capstone project were as follows:
 4. Exploratory Data Analysis
 
 **Insights**
-The distribution of app categories on the Play Store.
-The most popular app categories based on the number of installs.
-Popular Genres in popular categories.
-Ideal prices for paid apps.
-The correlation between different features.
+1. The distribution of app categories on the Play Store.
+2. The most popular app categories based on the number of installs.
+3. Popular Genres in popular categories.
+4. Ideal prices for paid apps.
+5. The correlation between different features.
 
 **Conclusion**
 This capstone project provided a comprehensive analysis of the Play Store dataset, revealing valuable insights into app categories, user preferences, and ratings. The findings can be useful for app developers, marketers, and anyone interested in understanding the dynamics of the mobile app market.
