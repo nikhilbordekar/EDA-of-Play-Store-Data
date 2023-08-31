@@ -4,17 +4,6 @@ This repository contains the code and documentation for my capstone project titl
 
 **Table of Contents**
 
-**Introduction**
-
-**Dataset**
-
-**Project Goals**
-
-**Methods Used**
-
-**Insights**
-
-**Conclusion**
 
 **Introduction**
 The Google Play Store is a hub for millions of mobile applications across various categories. Exploring this vast dataset can provide valuable insights into app trends, user preferences, and factors influencing app ratings and reviews. This project aims to perform a comprehensive exploratory data analysis on the Play Store dataset to uncover interesting patterns and trends.
